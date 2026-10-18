@@ -1,0 +1,6 @@
+target/
+**/target/
+*.log
+*.log.*
+.LCK*
+.env
